@@ -1,0 +1,10 @@
+Helloooo
+public Status void main()
+{
+init a=1
+init b=2
+Raccey
+
+
+
+}
