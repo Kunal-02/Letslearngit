@@ -4,4 +4,13 @@ public  static void main()
     And  i am 23 years Old 
     And i am from Parel 
     Only prac 
+
+    hello
+     HI my name is Kunal 
+    And  i am 23 years Old 
+    And i am from Parel 
+    Only prac 
+
+    hello My name is 
+
 }
